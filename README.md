@@ -8,6 +8,8 @@ Opcja tworzenia użytkownika, magazynu i artykułu jest na jednej podstronie, kt
 
 Wyeksportowana baza danych jest pod nazwą "zad_testowe.sql".
 
+Link do strony: http://aplikacja-magazyny.5v.pl/
+
 Logowanie dla admina:
 L: admin@gmail.com
 H: qwerty
